@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Wishlist</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Wislist</h1>
+    <h3>By Mason</h3> <br /><img src = https://www.holmescountychamber.com/sites/default/files/styles/gallery_slider_image/public/members/VhouseHiRes.jpg?itok=DQKFfrFJ>
+    <ul>
+      <li>Real estate</li>
+      <li>A drawing tablet</li>
+  </body>
+</html>
