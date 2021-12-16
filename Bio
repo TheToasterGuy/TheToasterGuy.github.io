@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1> --------------------About Mason-------------------- </h1>`
+    <h2>Hi, my name is Mason H. Crow. Please use this to get to know some more things about me!</h2>
+    <img src = https://this-person-does-not-exist.com/img/avatar-836d4e202b4c764978223f633db22427.jpg>
+    <h3>*This isn't Mason. This isn't even a real person. You can tell because of the assymetrical glasses.</h3>
+    <h2>
+    <ul>
+      <li>I like to draw and play video games.</li>
+      <li>My favorite food is calamari.</li>
+      <li>My favorite color is grey.</li>
+      <li>I am currently in 7th grade.</li>
+      <li>I have a world record!</li>
+    </ul>
+    </h2>
+  </body>
+</html>
